@@ -2,3 +2,4 @@
 
 ## Getting started
 - [Get the code](/docs/get_the_code.md)
+- [Install additional build dependencies](/docs/install_build_deps.md)
