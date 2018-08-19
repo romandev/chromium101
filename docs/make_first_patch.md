@@ -1,0 +1,24 @@
+## 첫패치 만들어 보기
+[동영상 보기](https://youtu.be/wrqQDRHm1_w)
+- 적당한 이슈를 찾기
+  - https://crbug.com/561800
+  - https://crbug.com/875665
+- 다른 사람과 conflict을 피하기 위해서 디렉토리를 선택
+  - src/cc
+  - src/chrome
+  - src/chromecast
+  - src/chrome_os
+  - src/components
+  - src/content
+  - src/gpu
+  - src/jingle
+  - src/media
+  - src/net
+  - src/ppapi
+  - src/remoting
+  - src/resource_coordinator
+  - src/ui
+- 코드 수정
+  - 561800의 경우 ```std::find()``` 대신 ```base::ContainsValue()```를 사용하도록 변경한다.
+  - 875665의 경우 ```erase(std::remove())```나 ```erase(std::remove_if())``` 대신 ```base::Erase()```나 ```base::EraseIf()```를 사용하도록 변경한다.
+- 패치 업로드

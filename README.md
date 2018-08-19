@@ -9,3 +9,4 @@
 ## Make first patch
 - [Register CLA](/docs/cla.md)
 - [Update AUTHORS file](/docs/authors.md)
+- [Make first patch](/docs/make_first_patch.md)
