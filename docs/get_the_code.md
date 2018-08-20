@@ -9,4 +9,4 @@
 (.bashrc와 같은 곳에 등록해두면 편합니다)
   - ```$ export PATH="$PATH:${HOME}/depot_tools"```
 - 원하는 위치에서(예: /home/zino/chromium), 소스코드를 다운로드합니다.
-  - ```$ fetch —no hooks chromium```
+  - ```$ fetch --nohooks chromium```
