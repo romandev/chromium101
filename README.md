@@ -1,4 +1,4 @@
-# Contributhon 2018 (Chromium/Blink)
+# Chromium/Blink 101
 
 ## Getting started
 - [Get the code](/docs/get_the_code.md)
