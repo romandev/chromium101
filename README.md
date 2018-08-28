@@ -13,3 +13,6 @@
 - [Register CLA](/docs/cla.md)
 - [Update AUTHORS file](/docs/authors.md)
 - [Make first patch](/docs/make_first_patch.md)
+
+## Implement Hello World Module
+- [Hello World](/docs/implement_hello_world_module.md)
