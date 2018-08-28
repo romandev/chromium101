@@ -31,7 +31,7 @@ function git_override() {
 
 function install_envsetup() {
   if [ ! -f $HOME/.envsetup.sh ]; then
-    cp $(pwd)/envsetup.sh $HOME/.envsetup.sh
+    cp $(pwd)/.e $HOME/.envsetup.sh
     echo ". $HOME/.envsetup.sh" >> $HOME/.bashrc
     config_xhub
   fi
