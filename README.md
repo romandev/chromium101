@@ -17,3 +17,6 @@
 ## Implement Hello World Module
 - [Implement Hello World](/docs/implement_hello_world_module.md)
 - [Write a test](/docs/implement_hello_world_module.md)
+
+## Advanced
+- [Chromium Documents](https://chromium.googlesource.com/chromium/src/+/master/docs)
