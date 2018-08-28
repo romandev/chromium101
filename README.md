@@ -15,4 +15,5 @@
 - [Make first patch](/docs/make_first_patch.md)
 
 ## Implement Hello World Module
-- [Hello World](/docs/implement_hello_world_module.md)
+- [Implement Hello World](/docs/implement_hello_world_module.md)
+- [Write a test](/docs/implement_hello_world_module.md)
