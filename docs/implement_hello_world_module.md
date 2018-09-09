@@ -83,6 +83,12 @@
   # //third_party/blink/renderer/modules/BUILD.gn에서 deps를 수정
   "//third_party/blink/renderer/modules/hello_world",
   ```
+- **idl 추가**
+  ```
+  # //third_party/blink/renderer/modules/modules_idl_files.gni에서 modules_idl_files를 수정
+  "hello_world/hello_world.idl",
+  ```
+
 - **빌드하기**
   - ```$ gn args out/Debug```
   - ```$ ninja -C out/Debug chrome```
