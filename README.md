@@ -20,3 +20,4 @@
 
 ## Advanced
 - [Chromium Documents](https://chromium.googlesource.com/chromium/src/+/master/docs)
+- [How Blink Works(한글)](http://bit.ly/howblinkworks)
